@@ -1,0 +1,8 @@
+uuid
+PyPDF2
+pymongo[srv]
+langchain
+requests
+bcrypt
+gradio
+langchain_community
