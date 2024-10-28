@@ -120,4 +120,4 @@ To handle the requirements for equipping the RAG application with the capabiliti
 
 Any contribution or further development to the architecture is highly appreciated
 
-Email:-[nithupd@gmail.com](mailto:nithupd@gmail.com)
+Email:-[nithupd@gmail.com](mailto:neerajroythomas@gmail.com)
